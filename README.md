@@ -1,0 +1,2 @@
+# analogTemp
+ Steinhart-Hart equation
